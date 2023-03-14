@@ -14,6 +14,7 @@ module.exports = {
         'indent': ['error', 'tab'],
         'brace-style': ['error', 'stroustrup'],
         'no-tabs': ['off'],
-        'arrow-body-style': ['error', 'always']
+        'arrow-body-style': ['error', 'always'],
+        'import/extensions': ['error', 'ignorePackages']
     }
 }
