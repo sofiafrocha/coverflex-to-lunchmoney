@@ -6,5 +6,5 @@ const result = {
 	token: localStorage.getItem('cvrflx_flightdeck_token'),
 	refresh: localStorage.getItem('cvrflx_flightdeck_refresh_token'),
 };
-// eslint-disabled-next-line
-result
+// eslint-disable-next-line no-unused-expressions
+result;
